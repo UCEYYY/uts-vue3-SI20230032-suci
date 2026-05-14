@@ -1,18 +1,20 @@
 <!-- public/404.html -->
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Silnventaris — Redirecting...</title>
   <script>
-    // Simpan URL asli sebelum redirect ke index.html
+    // Simpan URL asli sebelum diarahkan ke root
+    const BASE_PATH = '/uts-vue3-SI20230032-suci/';
     sessionStorage.setItem('gh-redirect', window.location.href);
-    window.location.href = '/uts-vue3-SI20230032-suci/';
+    window.location.replace(BASE_PATH);
   </script>
 </head>
 <body>
-  <p style="text-align:center; margin-top:40px; font-family:sans-serif;">
-    Redirecting to app...
+  <p style="text-align:center; margin-top:40px; font-family:system-ui,sans-serif; color:#64748B;">
+    Mengalihkan ke Silnventaris...
   </p>
 </body>
 </html>
