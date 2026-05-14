@@ -114,14 +114,14 @@
             </div>
           </div>
 
-          Info Box
+          <!-- Info Box
           <div class="bg-blue-50 border-l-4 border-[#0C1E4B] rounded-r-lg p-4 flex items-start gap-3">
             <Info class="h-5 w-5 text-[#0C1E4B] shrink-0 mt-0.5" />
             <p class="text-sm text-[#0C1E4B]/80">
               Pastikan semua data numerik (Stok, Harga) sudah benar sebelum menyimpan produk. 
               Data ini akan langsung mempengaruhi laporan keuangan.
             </p>
-          </div>
+          </div> -->
 
           <!-- Actions -->
           <div class="flex gap-4 pt-4">
