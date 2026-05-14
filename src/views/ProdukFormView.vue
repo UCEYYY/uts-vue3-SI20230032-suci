@@ -114,7 +114,7 @@
             </div>
           </div>
 
-          <!-- Info Box -->
+          Info Box
           <div class="bg-blue-50 border-l-4 border-[#0C1E4B] rounded-r-lg p-4 flex items-start gap-3">
             <Info class="h-5 w-5 text-[#0C1E4B] shrink-0 mt-0.5" />
             <p class="text-sm text-[#0C1E4B]/80">
